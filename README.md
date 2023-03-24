@@ -16,9 +16,14 @@ Link:
 # :camera: Screenshots:
 
 ## :desktop_computer: Desktop:
+![Screenshot (133)](https://user-images.githubusercontent.com/109822837/227602976-fd50c023-b251-4d96-ac41-bd17ae50bba6.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/109822837/227603665-a9c8d2c5-b394-4e85-b484-e4660fa53c3b.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/109822837/227604820-b832f481-0bd0-498c-8230-d1b76e0f5f3f.png)
 
-
-![Screenshot (131)](https://user-images.githubusercontent.com/109822837/227600746-e62e3bb0-bdfc-439e-827a-b6ad1514055a.png)
 
 
 ## :iphone: Smart Phones
+
+![1](https://user-images.githubusercontent.com/109822837/227604967-96bfd6a7-40db-4de9-834a-36992bb4c063.jpg)
+![2](https://user-images.githubusercontent.com/109822837/227604980-a2d810f2-c986-4296-b20c-5e5365b68858.jpg)
+![3](https://user-images.githubusercontent.com/109822837/227605175-a4d3bcc1-658c-4d50-8eb6-64a761c04d03.jpg)
